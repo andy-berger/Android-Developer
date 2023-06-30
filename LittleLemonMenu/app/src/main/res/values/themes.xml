@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LittleLemonMenu" parent="android:ThemeOverlay.Material.ActionBar">
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <item name="android:colorPrimary">@color/purple_700</item>
+    </style>
+</resources>
